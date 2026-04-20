@@ -57,9 +57,10 @@ This project focuses on analysing Zomato restaurant data to extract meaningful i
 
 ## 📸 Dashboard Preview
 
-<img width="1207" height="731" alt="Screenshot 2026-04-08 192608" src="https://github.com/user-attachments/assets/54e9afee-2043-4945-a68c-caf22c14f6fc" />
+<img width="1265" height="760" alt="Screenshot 2026-04-20 125326" src="https://github.com/user-attachments/assets/f806fa94-9ebf-4f0a-b261-67ccbd794f51" />
 
-<img width="1206" height="738" alt="Screenshot 2026-04-08 192619" src="https://github.com/user-attachments/assets/b202dd65-268c-4b32-bd91-de19ad35b0cc" />
+
+<img width="1264" height="767" alt="Screenshot 2026-04-20 125344" src="https://github.com/user-attachments/assets/2e484431-f73f-4f59-b300-c3b3cd4b6f3e" />
 
 ---
 
